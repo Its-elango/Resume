@@ -21,7 +21,7 @@ html body
 
 .nav-link
 {
-	font-size:1.1em; !import
+	font-size:1.1em !important;
 }
 
 .carousel-inner img a
@@ -35,7 +35,7 @@ html body
 {
 	position:absolute;
 	top:50%;
-	transform:translateY[-50%];
+	transform:translateY(-50%);
 }
 
 .carousel-caption h1
