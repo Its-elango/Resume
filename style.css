@@ -30,20 +30,6 @@ p {
     margin: 10px 0;
 }
 
-a {
-    color: #ff6347;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-p:last-child {
-    font-style: italic;
-    color: #888;
-}
-
 
 
 
